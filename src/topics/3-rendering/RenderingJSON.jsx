@@ -1,4 +1,4 @@
-const Day3Rendering = () => {
+const RenderingJSON = () => {
   /*let n = 12; //number
   let s = "Hello World"; //string
   let b = false; //boolean true/false
@@ -85,4 +85,4 @@ const Day3Rendering = () => {
   );
 };
 
-export default Day3Rendering;
+export default RenderingJSON;

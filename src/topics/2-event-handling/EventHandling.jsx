@@ -1,6 +1,6 @@
 // import { Fragment } from "react";
 
-const Day2Events = () => {
+const EventHandling = () => {
   // yahan likhegee js kaa logic 
 
   // return <div>App</div>; // single return
@@ -60,7 +60,7 @@ const Day2Events = () => {
 
 
 
-export default Day2Events;
+export default EventHandling;
 
 // A function component will always return HTML
 // we can not writ anything after return
