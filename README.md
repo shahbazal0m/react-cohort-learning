@@ -13,6 +13,7 @@ to maintain consistency and track my improvement.
 - ✅ **Day 1:** Export & Import (default + named exports)
 - ✅ **Day 2:** Event Handling (click events, parameterized functions)
 - ✅ **Day 3:** Rendering JSON data using `map()`
+- ✅ **Day 4:** useState Hook (state management + two-way binding)
 
 - ➡️ More topics will be added as I continue learning.
 
@@ -25,25 +26,26 @@ src/
  └── topics/
      ├── 1-export-import/
      ├── 2-event-handling/
-     └── 3-rendering/
+     ├── 3-rendering/
+     └── 4-usestate-hook/
 ```
 
 ---
 
 ## ⚙️ Tech Stack
-
 - React (Vite)
 - JavaScript (ES6+)
 - HTML & CSS
 - Git & GitHub
 ---
 ### ▶️ How to Run This Project Locally
-
-- Install dependencies:
+```
+Install dependencies: 
 npm install
-- Start development server:
-npm run dev
 
+Start development server:
+npm run dev
+```
 ---
 ## 🎯 Goal
 
