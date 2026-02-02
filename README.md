@@ -45,11 +45,12 @@ src/
 - Git & GitHub
 ---
 ### ▶️ How to Run This Project Locally
+Install dependencies:
 ```
-Install dependencies: 
 npm install
-
+```
 Start development server:
+```
 npm run dev
 ```
 ---
