@@ -13,7 +13,8 @@ to maintain consistency and track my improvement.
 - ✅ **Day 1:** Export & Import (default + named exports)
 - ✅ **Day 2:** Event Handling (click events, parameterized functions)
 - ✅ **Day 3:** Rendering JSON data using `map()`
-- ✅ **Day 4:** useState Hook (state management + two-way binding)
+- ✅ **Day 4:** useState Hook + Two-Way Binding (controlled inputs, state management)
+- ✅ **Day 5:** Props Drilling (Parent → Child)
 
 - ➡️ More topics will be added as I continue learning.
 
@@ -27,7 +28,12 @@ src/
      ├── 1-export-import/
      ├── 2-event-handling/
      ├── 3-rendering/
-     └── 4-usestate-hook/
+     ├── 4-usestate-hook/
+     │     ├── UseState.jsx
+     │     └── TwoWayBinding.jsx
+     └── 5-props-drilling/
+           ├── Create.jsx
+           └── Read.jsx
 ```
 
 ---
