@@ -17,7 +17,7 @@ const App = () => {
     { name:"Danish Shaikh", age:22 },
     { name:"Md Furquan Afroz", age:24 },
     { name:"Raj Kumar", age:23 },
-  ])
+  ]);
 
 
   return (
@@ -31,7 +31,7 @@ const App = () => {
       {/* <TwoWayBinding /> */}
 
       <Create />
-      <Read users={users} setusers={setusers} />
+      <Read users={users} setusers ={setusers} />
       {/* Read mein data pass kar diyaa joo uper banayaa hai dataa */}
     </div>
   );
