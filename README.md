@@ -15,8 +15,12 @@ to maintain consistency and track my improvement.
 - ✅ **Day 3:** Rendering JSON data using `map()`
 - ✅ **Day 4:** useState Hook + Two-Way Binding (controlled inputs, state management)
 - ✅ **Day 5:** Props Drilling (Parent → Child)
+- ✅ **Day 6:** Two-Way Binding Revision & Form Handling  
+  (text input, checkbox, radio button, select dropdown)  
+  + Props Drilling (Parent → Child)
 
-- ➡️ More topics will be added as I continue learning.
+
+➡️ More topics will be added as I continue learning.
 
 ---
 
@@ -30,7 +34,8 @@ src/
      ├── 3-rendering/
      ├── 4-usestate-hook/
      │     ├── UseState.jsx
-     │     └── TwoWayBinding.jsx
+     │     ├── TwoWayBinding.jsx
+     │     └── TwoWayBindingRevise.jsx
      └── 5-props-drilling/
            ├── Create.jsx
            └── Read.jsx

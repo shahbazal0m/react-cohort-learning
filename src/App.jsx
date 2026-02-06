@@ -3,10 +3,15 @@ import EventHandling from "./topics/2-event-handling/EventHandling";
 import RenderingJSON from "./topics/3-rendering/RenderingJSON";
 import UseStateHook from "./topics/4-usestate-hook/UseState";
 import TwoWayBinding from "./topics/4-usestate-hook/TwoWayBinding";
+import TwoWayBindingRevise from "./topics/4-usestate-hook/TwoWayBindingRevise";
+
 
 import { useState } from "react";
 import Create from "./topics/5-props-drilling/Create";
 import Read from "./topics/5-props-drilling/Read";
+
+
+
 
 // Console log for topic 1
 // console.log(x, y);
@@ -29,9 +34,11 @@ const App = () => {
       {/* <RenderingJSON />    */}
       {/* < UseStateHook/> */}
       {/* <TwoWayBinding /> */}
+      <TwoWayBindingRevise />
 
-      <Create />
-      <Read users={users} setusers ={setusers} />
+
+      {/* <Create /> */}
+      {/* <Read users={users} setusers ={setusers} /> */}
       {/* Read mein data pass kar diyaa joo uper banayaa hai dataa */}
     </div>
   );
