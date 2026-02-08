@@ -12,7 +12,6 @@ import Read from "./topics/5-props-drilling/Read";
 
 
 
-
 // Console log for topic 1
 // console.log(x, y);
 
@@ -34,7 +33,7 @@ const App = () => {
       {/* <RenderingJSON />    */}
       {/* < UseStateHook/> */}
       {/* <TwoWayBinding /> */}
-      <TwoWayBindingRevise />
+      {/* <TwoWayBindingRevise /> */}
 
 
       {/* <Create /> */}

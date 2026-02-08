@@ -16,17 +16,17 @@ to maintain consistency and track my improvement.
 - ✅ **Day 4:** useState Hook + Two-Way Binding (controlled inputs, state management)
 - ✅ **Day 5:** Props Drilling (Parent → Child)
 - ✅ **Day 6:** Two-Way Binding Revision & Form Handling  
-  (text input, checkbox, radio button, select dropdown)  
-  + Props Drilling (Parent → Child)
+
+  (text input, checkbox, radio button, select dropdown)
 
 
-➡️ More topics will be added as I continue learning.
+  ➡️ More topics will be added as I continue learning.
 
 ---
 
 ## 📂 Project Structure
 
-```text
+```
 src/
  └── topics/
      ├── 1-export-import/
@@ -44,11 +44,13 @@ src/
 ---
 
 ## ⚙️ Tech Stack
+
 - React (Vite)
 - JavaScript (ES6+)
 - HTML & CSS
 - Git & GitHub
 ---
+
 ### ▶️ How to Run This Project Locally
 Install dependencies:
 ```
